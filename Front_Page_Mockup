@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="jewelerymain.css">
+    <title>Douglas Jewelry</title>
+</head>
+<body>
+    <div class="top"><h3>Douglas & Co.</h3></div>
+    <div class="topbar">
+        <ul id="navbar">
+            <li>Sales</li>
+            <li>Women's</li>
+            <li>Men's</li>
+            <li>Engagement</li>
+            <li>Custom Orders</li>
+            <li>Lab Grown Gems</li>
+        </ul></div>
+        <div class="quiz"><p>Take this quiz to find your perfect accessory</p>
+            <button class= "button"> Start</button>
+        </div>
+        <div class="new_arivals">New Arrivals</div>
+        <div class="collections">Collections</div>
+        <div class="best_seller">Best Sellers</div>
+        <footer class="blerbs">
+        <ul id = "bottombar">
+            <li><h2>Warranty Policy</h2>
+                <p>Our company considers our product a life long gift, meant to last from purchase to generations to come.
+                    If your Douglas & Co. product becomes damaged in any way, you can return your purchase to any
+                    Douglas & Co. location for repairs.
+                </p>
+            </li>
+            <li><h2>About us</h2>
+                <p>After liqudating our campuses and teaching faculty, Douglas & Co. left the education scene to 
+                    pursue lucrative buisness in gold and jewels.
+                </p>
+            </li>
+            <li><h2>Contact us</h2>
+            <p>700 Royal Avenue
+                New Westminster, BC
+                V3M 5Z5</p></li>
+        </ul></footer>
+
+</body>
+</html>
