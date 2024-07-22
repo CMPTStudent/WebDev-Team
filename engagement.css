@@ -1,0 +1,174 @@
+.top{
+    height:330px;
+    background-color: aqua;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 0;
+    margin-top: 0;
+    background-image: url(segal-jewelry-NsH-CvU0deg-unsplash.png);
+    background-position:top;
+    background-size: cover;
+    color:rgb(165, 151, 119);
+}
+
+h3{
+    width:100%;
+    background-color: azure;
+    opacity: 90%;
+}
+
+#navbar{
+    margin-top: 0;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* border: 2px black solid; */
+    /* width:100%; */
+    background-color: azure;
+    gap:25px;
+    font-size: large;
+    /* margin-right: 20px; */
+    color:rgb(165, 151, 119);
+}
+
+.collections{
+    color:rgb(165, 151, 119);
+    text-align: center;
+    background-color: azure;
+    font-size: xx-large;
+    display:inline-block;
+/* display:flex; */
+}
+
+#variety{
+    margin-right: 3%;
+    display:block;
+    font-size: x-large;
+    text-align: left;
+    list-style-type: none;
+}
+
+#bottombar{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px black solid; */
+    margin-top: 10px;
+    background-color: azure;
+    /* width:100%; */
+    height: 200px;
+    gap:10px;
+    color:rgb(165, 151, 119);
+}
+
+#help{
+    width:20%;
+    /* display:flex; */
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.wimage{
+    display:flex;
+    justify-content: space-around;
+}
+#women{
+    place-content: center;
+    background-color: white;
+    gap:10px;
+}
+
+#men{
+    background-color: white;
+    margin-top: 10px;
+}
+
+#dob{
+    background-color: white;
+    margin-top: 10px;
+}
+#lab{
+    background-color: white;
+    margin-top: 10px;
+}
+.bottombar p{
+    width:30%;
+}
+.engagement_stuff{
+    gap:5px;
+    display:flex;
+    height:800px;
+    background-color: azure;
+    justify-items: center;
+}
+
+
+.engagering img{
+    /* display:flex; */
+    object-fit: cover;
+    max-width: 50%;
+    max-height: 100%;
+    height:auto;
+    border-radius: 5%;
+    gap:5px;
+}
+
+.buynow p{
+    font-size: xx-large;
+    text-align: center;
+    /* margin-right: 20%; */
+    background-color: white;
+    width:100%;
+    opacity:70%;
+    margin-top: 20%;
+    border-radius: 5%;
+    color:rgb(165, 151, 119);
+    gap:5px;
+}
+
+.engagering p{
+    font-size: xx-large;
+    text-align: center;
+    /* margin-right: 20%; */
+    background-color: white;
+    width:100%;
+    opacity:70%;
+    margin-top: 10%;
+    border-radius: 5%;
+    color:rgb(165, 151, 119);
+    gap:5px;
+}
+h3{
+    font-size: xx-large;
+    text-align:center;
+    color:rgb(165, 151, 119);
+    margin-bottom: 2%;
+}
+
+/* #example{
+    width:10%
+} */
+
+.buynow{
+    height:100%;
+    background-image: url("Images In Use/alekon-pictures-yj4kwA4h_Ms-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+    border-radius: 5%;
+    width:50%;
+}
+
+.engagering{
+    width:50%;
+    background-image: url("./Images In Use/jackie-tsang-3_YP8_mh-Kg-unsplash.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius:5%;
+}
+
+/* .engagement_stuff{
+    display:inline-flex;
+    justify-content: center;
+} */
+
