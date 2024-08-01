@@ -1,0 +1,73 @@
+.engagement_stuff{
+    margin-top: 1%;
+    gap:5px;
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    height:800px;
+    background-color: azure;
+    justify-items: center;
+}
+
+.engagering img{
+    /* display:flex; */
+    object-fit: cover;
+    max-width: 50%;
+    max-height: 100%;
+    height:auto;
+    border-radius: 5%;
+    gap:5px;
+}
+
+.buynow p{
+    font-size: xx-large;
+    text-align: center;
+    /* margin-right: 20%; */
+    background-color: white;
+    width:100%;
+    opacity:70%;
+    margin-top: 20%;
+    border-radius: 5%;
+    color:rgb(165, 151, 119);
+    gap:5px;
+}
+
+.engagering p{
+    font-size: xx-large;
+    text-align: center;
+    /* margin-right: 20%; */
+    background-color: white;
+    width:100%;
+    opacity:70%;
+    margin-top: 10%;
+    border-radius: 5%;
+    color:rgb(165, 151, 119);
+    gap:5px;
+}
+
+.buynow{
+    height:100%;
+    background-image: url('../pictures/alekon-pictures-yj4kwA4h_Ms-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 5%;
+    width:50%;
+}
+
+.engagering{
+    width:50%;
+    background-image: url('../pictures/jackie-tsang-3_YP8_mh-Kg-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius:5%;
+}
+
+h3{
+    margin-top:2px;
+    color:rgb(165, 151, 119);
+    width:100%;
+    background-color: azure;
+    opacity: 90%;
+    font-size: x-large;
+    text-align: center;
+}

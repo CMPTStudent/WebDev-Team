@@ -1,0 +1,145 @@
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 1rem;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.product {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 300px;
+}
+
+.product img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+.cart {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 1000px;
+}
+
+.cart h2 {
+    margin-bottom: 1rem;
+}
+
+.btn {
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-radius: 20px;
+    background: lightgray;
+}
+
+
+
+
+
+.content {
+    width: 20%;
+    margin: 15px;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    box-shadow: 0 6px 6px grey;
+    transition: .4s;
+    background: azure;
+}
+
+.content:hover {
+    box-shadow: 0 10px 10px grey;
+    transform: translate(0px, -8px);
+}
+
+.content img {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: block;
+    border-radius: 20px;
+}
+
+.p-description {
+    text-align: center;
+    color: black;
+    padding-top: 0 8px;
+}
+
+.p-name {
+    text-align: center;
+    font-size: 22px;
+    color: rgb(152, 139, 139);
+    margin: 10px;
+    padding-top: 10px;
+}
+
+.p-price {
+    font-size: 26px;
+    text-align: center;
+    color: rgb(152, 139, 139);
+    margin: 0;
+}
+
+button {
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    width: 100%;
+    padding: 15px;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+    margin-top: 5px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: rgb(199, 180, 137);
+}
+
+.main-title {
+    color:rgb(165, 151, 119);
+    text-align: center;
+    font-size: 40px;
+}
+
+.secondary-title {
+    color:rgb(165, 151, 119);
+    text-align: center;
+    font-size: 30px;
+}
