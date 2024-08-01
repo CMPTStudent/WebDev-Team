@@ -62,12 +62,12 @@
     border-radius:5%;
 }
 
-h3{
+h2{
     margin-top:2px;
     color:rgb(165, 151, 119);
     width:100%;
-/*     background-color: azure;
-    opacity: 90%; */
+    background-color: azure;
+    opacity: 90%;
     font-size: x-large;
     text-align: center;
 }
