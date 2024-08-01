@@ -4,3 +4,14 @@
     background-color: lightblue;
     gap:5px;
 }
+
+#pic{
+    width: 30%;
+    height:30%;
+}
+
+.citations{
+    display:flex;
+    flex-direction: column;
+    width:30%;
+}
